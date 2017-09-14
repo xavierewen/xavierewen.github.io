@@ -1,0 +1,24 @@
+/*General*/
+*{
+  list-style-type: none;
+}
+
+/*Nav*/
+
+
+/*Headerl*/
+.header img{
+  max-height: 22em;
+}
+
+/*Main*/
+.main{
+  padding: 2em 0;
+}
+
+/*Footer*/
+.footer{
+  background-color: grey;
+  text-align: center;
+  padding: 3em 0;
+}

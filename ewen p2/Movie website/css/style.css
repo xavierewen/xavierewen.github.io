@@ -1,0 +1,80 @@
+*{
+  color: white;
+  text-align: center;
+}
+body{
+  background-color: black;
+}
+img{
+  width:100%;
+}
+.images{
+  width: 15%;
+  margin: auto;
+}
+h1{
+  font-family: verdana;
+  color: #90EE90;
+}
+h4{
+  font-family: courier;
+  color: #FFFF00;
+}
+
+/*******************************************
+NAVBAR CODE
+*****************************************/
+.navbar{
+  width: 100%;
+  background-color: #29143D;
+  padding: .8em;
+}
+.navbar a:link, .navbar a:visited{
+  text-decoration: none;
+  color:lime;
+  font-family: Arial;
+
+}
+
+.navbar a:hover{
+  text-decoration: none;
+  color:yellow;
+  font-family: Arial;
+}
+/*******************************************
+MAIN CODE
+*****************************************/
+span{
+  font-weight:bolder;
+  font-size: 1.1em;
+}
+/********************************************
+HEADING CODE
+******************************************/
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: #FFFF33;
+  text-decoration: underline;
+  font-family: verdana;
+}
+/***********************************************
+PARAGRAPH CODE
+**********************************************/
+p{
+  font-family: verdana;
+  font-size: 17px;
+  color: #FFFFFF;
+}
+/*Showtimes for movie*/
+.showtimes{
+  width:21%;
+   margin: auto;
+   background-color: grey;
+}
+.dates{
+background-color: rgb(31, 11, 61)
+}
+.times{
+  background-color: rgb(122, 6, 6)
+}
